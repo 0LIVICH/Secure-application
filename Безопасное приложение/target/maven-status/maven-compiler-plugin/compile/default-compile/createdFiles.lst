@@ -1,0 +1,3 @@
+com/example/secureapp/SecureApplication.class
+com/example/secureapp/controller/HomeController.class
+com/example/secureapp/config/SecurityConfig.class
